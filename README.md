@@ -30,3 +30,5 @@ This project is a clone of the Spotify web application. It includes navigation o
 ## License
 
 This project is licensed under the MIT License.
+# revising git and github tools 
+
